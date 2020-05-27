@@ -29,5 +29,3 @@
   ## Questions
   
   Please contact [sharlenemay](https://github.com/sharlenemay) at sharleneminosa@gmail.com for questions. 
-
-  ![github avatar](https://avatars3.githubusercontent.com/u/60161834?v=4)
