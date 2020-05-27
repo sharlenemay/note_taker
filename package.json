@@ -1,0 +1,27 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharlenemay/note_taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sharlenemay/note_taker/issues"
+  },
+  "homepage": "https://github.com/sharlenemay/note_taker#readme",
+  "description": ""
+}
