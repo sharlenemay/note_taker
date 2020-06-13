@@ -3,6 +3,8 @@
   ## Description
   
   This application uses an express backend to write, save, and delete notes with JSON.
+  
+  Deployed on Heroku: http://may-note-taker.herokuapp.com/
 
   ## User Story
 
